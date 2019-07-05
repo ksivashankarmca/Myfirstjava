@@ -1,6 +1,0 @@
-
-mnm,nm
-jjk
-
-
-hai this is my first git
